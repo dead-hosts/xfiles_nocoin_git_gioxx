@@ -1,9 +1,19 @@
 {
     "currently_under_test": false,
     "custom_pyfunceble_config": {},
-    "days_until_next_test": 2,
-    "name": "dead-hosts/xfiles_nocoin_git_gioxx",
+    "days_until_next_test": 2.0,
+    "finish_datetime": "2019-09-07T17:15:10.667412",
+    "finish_timestamp": 1567876510.667412,
+    "last_download_datetime": "2019-09-07T17:15:03.663035",
+    "last_download_timestamp": 1567876503.663035,
+    "latest_part_finish_datetime": "2019-09-07T17:15:10.667412",
+    "latest_part_finish_timestamp": 1567876510.667412,
+    "latest_part_start_datetime": "2019-09-07T17:15:08.321098",
+    "latest_part_start_timestamp": 1567876508.321098,
+    "name": "xfiles_nocoin_git_gioxx",
     "own_management": false,
     "ping": [],
-    "raw_link": "https://raw.githubusercontent.com/gioxx/xfiles/master/nocoin.txt"
+    "raw_link": "https://raw.githubusercontent.com/gioxx/xfiles/master/nocoin.txt",
+    "start_datetime": "2019-09-07T17:15:08.317604",
+    "start_timestamp": 1567876508.317604
 }
