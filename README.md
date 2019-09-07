@@ -1,9 +1,16 @@
-# About [repository-name]
+# About xfiles_nocoin_git_gioxx
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/xfiles_nocoin_git_gioxx.svg?branch=master)](https://travis-ci.org/dead-hosts/xfiles_nocoin_git_gioxx)
 
 ```
-[description]
+! Version: 201909041222
+! Title: X Files: NoCoin List
+! NoCoin List blocca siti web che minano Bitcoin utilizzando le risorse del browser
+! Expires: 30 days
+! Homepage: https://xfiles.noads.it
+! Home: https://xfiles.noads.it
+! Blog: https://gioxx.org/tag/abpxfiles
+! Hosting lista: GitHub.com
 ```
 
 --------------------------------------------------------------------------------
