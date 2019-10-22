@@ -4,18 +4,18 @@
         "adblock": true
     },
     "days_until_next_test": 2.0,
-    "finish_datetime": "2019-10-20T10:21:50.145816",
-    "finish_timestamp": 1571566910.145816,
-    "last_download_datetime": "2019-10-20T10:21:48.271681",
-    "last_download_timestamp": 1571566908.271681,
-    "latest_part_finish_datetime": "2019-10-20T10:21:50.145816",
-    "latest_part_finish_timestamp": 1571566910.145816,
-    "latest_part_start_datetime": "2019-10-20T10:21:48.359369",
-    "latest_part_start_timestamp": 1571566908.359369,
+    "finish_datetime": "2019-10-22T11:04:31.976171",
+    "finish_timestamp": 1571742271.976171,
+    "last_download_datetime": "2019-10-22T11:04:29.947502",
+    "last_download_timestamp": 1571742269.947502,
+    "latest_part_finish_datetime": "2019-10-22T11:04:31.976171",
+    "latest_part_finish_timestamp": 1571742271.976171,
+    "latest_part_start_datetime": "2019-10-22T11:04:30.040919",
+    "latest_part_start_timestamp": 1571742270.040919,
     "name": "xfiles_nocoin_git_gioxx",
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/gioxx/xfiles/master/nocoin.txt",
-    "start_datetime": "2019-10-20T10:21:48.356046",
-    "start_timestamp": 1571566908.356046
+    "start_datetime": "2019-10-22T11:04:30.037019",
+    "start_timestamp": 1571742270.037019
 }
