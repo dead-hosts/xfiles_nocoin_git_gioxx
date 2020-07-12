@@ -1,0 +1,13 @@
+{
+    "/home/travis/build/dead-hosts/xfiles_nocoin_git_gioxx/domains.list": {
+        "base": {
+            "datetime_iso": "2020-07-12T10:30:18.833863",
+            "hash": "4690d6afec0fde6881152e91471b0e51ab452da57109c86ad599021a"
+        },
+        "latest": {
+            "datetime_iso": "2020-07-12T10:30:18.833863",
+            "hash": "4690d6afec0fde6881152e91471b0e51ab452da57109c86ad599021a"
+        },
+        "position": 776
+    }
+}
