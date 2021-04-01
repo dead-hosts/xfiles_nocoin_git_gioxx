@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/xfiles_nocoin_git_gioxx/xfiles_nocoin_git_gioxx/origin.list",
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
     "hash": "286e9417bf4b280051aab9980049ea4b5f8f1ff2876e04914358c4d4",
     "line_number": 17,
     "output_dir": "/home/runner/work/xfiles_nocoin_git_gioxx/xfiles_nocoin_git_gioxx/output/origin.list",
     "previous_hash": "286e9417bf4b280051aab9980049ea4b5f8f1ff2876e04914358c4d4",
-    "rel_source": "origin.list",
-    "session_id": "dbeade09b528150a33c81937",
-    "source": "/home/runner/work/xfiles_nocoin_git_gioxx/xfiles_nocoin_git_gioxx/origin.list",
-    "subject": "/home/runner/work/xfiles_nocoin_git_gioxx/xfiles_nocoin_git_gioxx/origin.list",
+    "session_id": "0ea295308052775a7fc65a30",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }
