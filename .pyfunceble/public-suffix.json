@@ -7484,8 +7484,7 @@
         "test.ru",
         "vladikavkaz.ru",
         "vladimir.ru",
-        "vps.mcdir.ru",
-        "vps.myjino.ru"
+        "vps.mcdir.ru"
     ],
     "run": [
         "code.run",
@@ -8463,6 +8462,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--p1acf": [
+        "vps.myjino.ru",
+        "xn--j1ael8b.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
