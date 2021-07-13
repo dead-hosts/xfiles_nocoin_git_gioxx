@@ -2398,7 +2398,6 @@
         "imperia.it",
         "is.it",
         "isernia.it",
-        "jc.neen.it",
         "kr.it",
         "la-spezia.it",
         "laquila.it",
@@ -6831,6 +6830,7 @@
         "al.eu.org",
         "altervista.org",
         "app.os.fedoraproject.org",
+        "app.os.stg.fedoraproject.org",
         "asso.eu.org",
         "at.eu.org",
         "au.eu.org",
@@ -7638,7 +7638,6 @@
         "nom.si"
     ],
     "site": [
-        "app.os.stg.fedoraproject.org",
         "barsy.site",
         "byen.site",
         "cloudera.site",
@@ -7646,6 +7645,7 @@
         "fastvps.site",
         "fnwk.site",
         "folionetwork.site",
+        "jc.neen.it",
         "jele.site",
         "lelux.site",
         "loginline.site",
